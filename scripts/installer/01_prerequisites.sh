@@ -29,4 +29,6 @@ run_command "pacman -S --noconfirm nano" "Install nano" "yes"
 
 run_command "pacman -S --noconfirm tar" "Install tar for extracting files (Must)/needed for copying themes" "yes"
 
+run_command "pacman -S --noconfirm stow" "Install stow for applying my dotfiles (Must)/needed" "yes"
+
 echo "------------------------------------------------------------------------"

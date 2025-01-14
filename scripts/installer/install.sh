@@ -21,11 +21,11 @@ check_root
 check_os
 
 # Run child scripts
-run_script "prerequisites.sh" "Prerequisites Setup"
-run_script "hypr.sh" "Hyprland & Critical Softwares Setup"
-run_script "utilities.sh" "Basic Utilities & Configs Setup"
-run_script "theming.sh" "Themes and Tools Setup"
-run_script "final.sh" "Final Setup"
+run_script "01_prerequisites.sh" "Prerequisites Setup"
+run_script "02_hypr.sh" "Hyprland & Critical Softwares Setup"
+run_script "03_utilities.sh" "Basic Utilities & Configs Setup"
+run_script "04_theming.sh" "Themes and Tools Setup"
+run_script "05_final.sh" "Final Setup"
 
 print_bold_blue "\n🌟 Setup Complete\n"
 log_message "Installation completed successfully"

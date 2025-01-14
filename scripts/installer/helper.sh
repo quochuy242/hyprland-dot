@@ -12,7 +12,7 @@ NC='\033[0m' # No Color
 SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
 # Log file
-LOG_FILE="$SCRIPT_DIR/simple_hyprland_install.log"
+LOG_FILE="$SCRIPT_DIR/hyprland_dot.log"
 
 function trap_message {
     print_error "\n\nScript interrupted. Exiting.....\n"

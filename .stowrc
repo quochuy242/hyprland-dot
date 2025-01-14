@@ -1,0 +1,11 @@
+--target=~/.config
+--ignore=.stowrc
+--ignore=DS_Store
+--ignore=assets
+--ignore=docs
+--ignore=scripts
+--ignore=.git
+--ignore=README.md
+--ignore=./LICENSE
+--ignore=setup.sh
+--ignore=setup_no_install.sh

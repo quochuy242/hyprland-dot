@@ -1,0 +1,161 @@
+Thứ ba, 14 Tháng 1 năm 2025 17:11:22 +07: Installation started
+Thứ ba, 14 Tháng 1 năm 2025 17:11:22 +07: Script not run as root. Exiting.
+Thứ ba, 14 Tháng 1 năm 2025 17:11:36 +07: Installation started
+Thứ ba, 14 Tháng 1 năm 2025 17:11:36 +07: Original user is quochuy242
+Thứ ba, 14 Tháng 1 năm 2025 17:11:40 +07: Operation accepted by user.
+Thứ ba, 14 Tháng 1 năm 2025 17:11:42 +07: Operation accepted by user.
+Thứ ba, 14 Tháng 1 năm 2025 17:11:42 +07: Installation started for prerequisites section
+Thứ ba, 14 Tháng 1 năm 2025 17:11:42 +07: Attempting to run: Update package database and upgrade packages (Recommended)
+Thứ ba, 14 Tháng 1 năm 2025 17:11:46 +07: Operation accepted by user.
+Thứ ba, 14 Tháng 1 năm 2025 17:12:36 +07: Update package database and upgrade packages (Recommended) completed successfully.
+Thứ ba, 14 Tháng 1 năm 2025 17:12:36 +07: Attempting to run: Install YAY (Must)/Breaks the script
+Thứ ba, 14 Tháng 1 năm 2025 17:12:54 +07: Operation accepted by user.
+Thứ ba, 14 Tháng 1 năm 2025 17:12:54 +07: Install YAY (Must)/Breaks the script completed successfully.
+Thứ ba, 14 Tháng 1 năm 2025 17:12:54 +07: Attempting to run: Clone YAY (Must)/Breaks the script
+Thứ ba, 14 Tháng 1 năm 2025 17:12:58 +07: Clone YAY (Must)/Breaks the script completed successfully.
+Thứ ba, 14 Tháng 1 năm 2025 17:12:58 +07: Attempting to run: Build YAY (Must)/Breaks the script
+Thứ ba, 14 Tháng 1 năm 2025 17:13:22 +07: Build YAY (Must)/Breaks the script completed successfully.
+Thứ ba, 14 Tháng 1 năm 2025 17:13:22 +07: Attempting to run: Configuring audio (Recommended)
+Thứ ba, 14 Tháng 1 năm 2025 17:13:25 +07: Operation accepted by user.
+Thứ ba, 14 Tháng 1 năm 2025 17:13:27 +07: Configuring audio (Recommended) completed successfully.
+Thứ ba, 14 Tháng 1 năm 2025 17:13:27 +07: Attempting to run: Installing Nerd Fonts and Symbols (Recommended)
+Thứ ba, 14 Tháng 1 năm 2025 17:13:32 +07: Operation accepted by user.
+Thứ ba, 14 Tháng 1 năm 2025 17:13:39 +07: Installing Nerd Fonts and Symbols (Recommended) completed successfully.
+Thứ ba, 14 Tháng 1 năm 2025 17:13:39 +07: Attempting to run: Install and enable SDDM (Recommended)
+Thứ ba, 14 Tháng 1 năm 2025 17:15:28 +07: Operation accepted by user.
+Thứ ba, 14 Tháng 1 năm 2025 17:15:30 +07: Command failed: pacman -S --noconfirm sddm && systemctl enable sddm.service
+Thứ ba, 14 Tháng 1 năm 2025 17:17:12 +07: Operation accepted by user.
+Thứ ba, 14 Tháng 1 năm 2025 17:17:15 +07: Install and enable SDDM (Recommended) completed successfully.
+Thứ ba, 14 Tháng 1 năm 2025 17:17:15 +07: Attempting to run: Install Brave Browser
+Thứ ba, 14 Tháng 1 năm 2025 17:17:20 +07: Operation cancelled by user.
+Thứ ba, 14 Tháng 1 năm 2025 17:17:20 +07: Install Brave Browser was skipped by user choice.
+Thứ ba, 14 Tháng 1 năm 2025 17:17:20 +07: Attempting to run: Install Kitty (Recommended)
+Thứ ba, 14 Tháng 1 năm 2025 17:17:22 +07: Operation cancelled by user.
+Thứ ba, 14 Tháng 1 năm 2025 17:17:22 +07: Install Kitty (Recommended) was skipped by user choice.
+Thứ ba, 14 Tháng 1 năm 2025 17:17:22 +07: Attempting to run: Install nano
+Thứ ba, 14 Tháng 1 năm 2025 17:17:23 +07: Operation cancelled by user.
+Thứ ba, 14 Tháng 1 năm 2025 17:17:23 +07: Install nano was skipped by user choice.
+Thứ ba, 14 Tháng 1 năm 2025 17:17:23 +07: Attempting to run: Install tar for extracting files (Must)/needed for copying themes
+Thứ ba, 14 Tháng 1 năm 2025 17:17:25 +07: Operation cancelled by user.
+Thứ ba, 14 Tháng 1 năm 2025 17:17:25 +07: Install tar for extracting files (Must)/needed for copying themes was skipped by user choice.
+Thứ ba, 14 Tháng 1 năm 2025 17:17:25 +07: Attempting to run: Install stow for applying my dotfiles (Must)/needed
+Thứ ba, 14 Tháng 1 năm 2025 17:17:27 +07: Operation accepted by user.
+Thứ ba, 14 Tháng 1 năm 2025 17:17:29 +07: Install stow for applying my dotfiles (Must)/needed completed successfully.
+Thứ ba, 14 Tháng 1 năm 2025 17:17:32 +07: Operation accepted by user.
+Thứ ba, 14 Tháng 1 năm 2025 17:17:32 +07: Installation started for hypr section
+Thứ ba, 14 Tháng 1 năm 2025 17:17:32 +07: Attempting to run: Install Hyprland (Must)
+Thứ ba, 14 Tháng 1 năm 2025 17:17:42 +07: Operation accepted by user.
+Thứ ba, 14 Tháng 1 năm 2025 17:17:45 +07: Install Hyprland (Must) completed successfully.
+Thứ ba, 14 Tháng 1 năm 2025 17:17:45 +07: Attempting to run: Copy hyprland config (Must)
+Thứ ba, 14 Tháng 1 năm 2025 17:17:46 +07: Operation accepted by user.
+Thứ ba, 14 Tháng 1 năm 2025 17:17:46 +07: Copy hyprland config (Must) completed successfully.
+Thứ ba, 14 Tháng 1 năm 2025 17:17:46 +07: Attempting to run: Install XDG desktop portal for Hyprland
+Thứ ba, 14 Tháng 1 năm 2025 17:17:58 +07: Operation accepted by user.
+Thứ ba, 14 Tháng 1 năm 2025 17:18:00 +07: Install XDG desktop portal for Hyprland completed successfully.
+Thứ ba, 14 Tháng 1 năm 2025 17:18:00 +07: Attempting to run: Install KDE Polkit agent for authentication dialogs
+Thứ ba, 14 Tháng 1 năm 2025 17:18:03 +07: Operation accepted by user.
+Thứ ba, 14 Tháng 1 năm 2025 17:18:05 +07: Install KDE Polkit agent for authentication dialogs completed successfully.
+Thứ ba, 14 Tháng 1 năm 2025 17:18:05 +07: Attempting to run: Install Dunst notification daemon
+Thứ ba, 14 Tháng 1 năm 2025 17:18:07 +07: Operation accepted by user.
+Thứ ba, 14 Tháng 1 năm 2025 17:18:09 +07: Install Dunst notification daemon completed successfully.
+Thứ ba, 14 Tháng 1 năm 2025 17:18:09 +07: Attempting to run: Copy dunst config
+Thứ ba, 14 Tháng 1 năm 2025 17:18:10 +07: Operation accepted by user.
+Thứ ba, 14 Tháng 1 năm 2025 17:18:10 +07: Copy dunst config completed successfully.
+Thứ ba, 14 Tháng 1 năm 2025 17:18:10 +07: Attempting to run: Install QT support on wayland
+Thứ ba, 14 Tháng 1 năm 2025 17:18:12 +07: Operation accepted by user.
+Thứ ba, 14 Tháng 1 năm 2025 17:18:14 +07: Install QT support on wayland completed successfully.
+Thứ ba, 14 Tháng 1 năm 2025 17:18:15 +07: Operation accepted by user.
+Thứ ba, 14 Tháng 1 năm 2025 17:18:15 +07: Installation started for utilities section
+Thứ ba, 14 Tháng 1 năm 2025 17:18:15 +07: Attempting to run: Install Waybar - Status Bar
+Thứ ba, 14 Tháng 1 năm 2025 17:18:16 +07: Operation accepted by user.
+Thứ ba, 14 Tháng 1 năm 2025 17:18:18 +07: Install Waybar - Status Bar completed successfully.
+Thứ ba, 14 Tháng 1 năm 2025 17:18:18 +07: Attempting to run: Copy Waybar config
+Thứ ba, 14 Tháng 1 năm 2025 17:18:19 +07: Operation accepted by user.
+Thứ ba, 14 Tháng 1 năm 2025 17:18:19 +07: Copy Waybar config completed successfully.
+Thứ ba, 14 Tháng 1 năm 2025 17:18:19 +07: Attempting to run: Install Tofi - Application Launcher
+Thứ ba, 14 Tháng 1 năm 2025 17:18:19 +07: Operation accepted by user.
+Thứ ba, 14 Tháng 1 năm 2025 17:18:43 +07: Install Tofi - Application Launcher completed successfully.
+Thứ ba, 14 Tháng 1 năm 2025 17:18:43 +07: Attempting to run: Copy Tofi config(s)
+Thứ ba, 14 Tháng 1 năm 2025 17:18:50 +07: Operation accepted by user.
+Thứ ba, 14 Tháng 1 năm 2025 17:18:50 +07: Copy Tofi config(s) completed successfully.
+Thứ ba, 14 Tháng 1 năm 2025 17:18:50 +07: Attempting to run: Install Cliphist - Clipboard Manager
+Thứ ba, 14 Tháng 1 năm 2025 17:18:53 +07: Operation cancelled by user.
+Thứ ba, 14 Tháng 1 năm 2025 17:18:53 +07: Install Cliphist - Clipboard Manager was skipped by user choice.
+Thứ ba, 14 Tháng 1 năm 2025 17:18:53 +07: Attempting to run: Install SWWW for wallpaper management
+Thứ ba, 14 Tháng 1 năm 2025 17:18:56 +07: Operation cancelled by user.
+Thứ ba, 14 Tháng 1 năm 2025 17:18:56 +07: Install SWWW for wallpaper management was skipped by user choice.
+Thứ ba, 14 Tháng 1 năm 2025 17:18:56 +07: Attempting to run: Copy sample wallpapers to assets directory (Recommended)
+Thứ ba, 14 Tháng 1 năm 2025 17:19:04 +07: Operation accepted by user.
+Thứ ba, 14 Tháng 1 năm 2025 17:19:04 +07: Copy sample wallpapers to assets directory (Recommended) completed successfully.
+Thứ ba, 14 Tháng 1 năm 2025 17:19:04 +07: Attempting to run: Install Hyprpicker - Color Picker
+Thứ ba, 14 Tháng 1 năm 2025 17:19:06 +07: Operation accepted by user.
+Thứ ba, 14 Tháng 1 năm 2025 17:19:11 +07: Install Hyprpicker - Color Picker completed successfully.
+Thứ ba, 14 Tháng 1 năm 2025 17:19:11 +07: Attempting to run: Install Hyprlock - Screen Locker (Must)
+Thứ ba, 14 Tháng 1 năm 2025 17:19:21 +07: Operation cancelled by user.
+Thứ ba, 14 Tháng 1 năm 2025 17:19:21 +07: Install Hyprlock - Screen Locker (Must) was skipped by user choice.
+Thứ ba, 14 Tháng 1 năm 2025 17:19:21 +07: Attempting to run: Copy Hyprlock config
+Thứ ba, 14 Tháng 1 năm 2025 17:19:23 +07: Operation accepted by user.
+Thứ ba, 14 Tháng 1 năm 2025 17:19:23 +07: Copy Hyprlock config completed successfully.
+Thứ ba, 14 Tháng 1 năm 2025 17:19:23 +07: Attempting to run: Install Wlogout - Session Manager
+Thứ ba, 14 Tháng 1 năm 2025 17:19:25 +07: Operation cancelled by user.
+Thứ ba, 14 Tháng 1 năm 2025 17:19:25 +07: Install Wlogout - Session Manager was skipped by user choice.
+Thứ ba, 14 Tháng 1 năm 2025 17:19:25 +07: Attempting to run: Copy Wlogout config and assets
+Thứ ba, 14 Tháng 1 năm 2025 17:19:25 +07: Operation accepted by user.
+Thứ ba, 14 Tháng 1 năm 2025 17:19:25 +07: Copy Wlogout config and assets completed successfully.
+Thứ ba, 14 Tháng 1 năm 2025 17:19:25 +07: Attempting to run: Install Grimblast - Screenshot tool
+Thứ ba, 14 Tháng 1 năm 2025 17:19:27 +07: Operation cancelled by user.
+Thứ ba, 14 Tháng 1 năm 2025 17:19:27 +07: Install Grimblast - Screenshot tool was skipped by user choice.
+Thứ ba, 14 Tháng 1 năm 2025 17:19:27 +07: Attempting to run: Install Hypridle for idle management (Must)
+Thứ ba, 14 Tháng 1 năm 2025 17:19:29 +07: Operation cancelled by user.
+Thứ ba, 14 Tháng 1 năm 2025 17:19:29 +07: Install Hypridle for idle management (Must) was skipped by user choice.
+Thứ ba, 14 Tháng 1 năm 2025 17:19:29 +07: Attempting to run: Copy Hypridle config
+Thứ ba, 14 Tháng 1 năm 2025 17:19:29 +07: Operation accepted by user.
+Thứ ba, 14 Tháng 1 năm 2025 17:19:29 +07: Copy Hypridle config completed successfully.
+Thứ ba, 14 Tháng 1 năm 2025 17:19:34 +07: Operation accepted by user.
+Thứ ba, 14 Tháng 1 năm 2025 17:19:34 +07: Installation started for theming section
+Thứ ba, 14 Tháng 1 năm 2025 17:19:34 +07: Attempting to run: Install nwg-look for GTK theme management
+Thứ ba, 14 Tháng 1 năm 2025 17:19:37 +07: Operation accepted by user.
+Thứ ba, 14 Tháng 1 năm 2025 17:19:39 +07: Install nwg-look for GTK theme management completed successfully.
+Thứ ba, 14 Tháng 1 năm 2025 17:19:39 +07: Attempting to run: Install Qt5, Qt6 Settings, and Kvantum theme engines
+Thứ ba, 14 Tháng 1 năm 2025 17:19:43 +07: Operation accepted by user.
+Thứ ba, 14 Tháng 1 năm 2025 17:19:45 +07: Install Qt5, Qt6 Settings, and Kvantum theme engines completed successfully.
+Thứ ba, 14 Tháng 1 năm 2025 17:19:45 +07: Attempting to run: Install Catppuccin Mocha GTK theme
+Thứ ba, 14 Tháng 1 năm 2025 17:19:47 +07: Operation accepted by user.
+Thứ ba, 14 Tháng 1 năm 2025 17:19:47 +07: Install Catppuccin Mocha GTK theme completed successfully.
+Thứ ba, 14 Tháng 1 năm 2025 17:19:47 +07: Attempting to run: Install Tela Circle Dracula icon theme
+Thứ ba, 14 Tháng 1 năm 2025 17:19:48 +07: Operation accepted by user.
+Thứ ba, 14 Tháng 1 năm 2025 17:19:49 +07: Install Tela Circle Dracula icon theme completed successfully.
+Thứ ba, 14 Tháng 1 năm 2025 17:19:49 +07: Attempting to run: Install Catppuccin theme for Kvantum
+Thứ ba, 14 Tháng 1 năm 2025 17:19:52 +07: Operation accepted by user.
+Thứ ba, 14 Tháng 1 năm 2025 17:20:03 +07: Install Catppuccin theme for Kvantum completed successfully.
+Thứ ba, 14 Tháng 1 năm 2025 17:20:03 +07: Attempting to run: Copy Catppuccin theme configuration for Kitty terminal
+Thứ ba, 14 Tháng 1 năm 2025 17:20:10 +07: Operation accepted by user.
+Thứ ba, 14 Tháng 1 năm 2025 17:20:10 +07: Command failed: cp -r ../../configs/kitty /home/quochuy242/.config/
+Thứ ba, 14 Tháng 1 năm 2025 17:21:08 +07: Operation cancelled by user.
+Thứ ba, 14 Tháng 1 năm 2025 17:21:08 +07: Copy Catppuccin theme configuration for Kitty terminal was not completed due to failure and user chose not to retry.
+Thứ ba, 14 Tháng 1 năm 2025 17:21:09 +07: Operation accepted by user.
+Thứ ba, 14 Tháng 1 năm 2025 17:21:09 +07: Final setup script started
+Thứ ba, 14 Tháng 1 năm 2025 17:21:09 +07: Installation completed successfully
+Thứ ba, 14 Tháng 1 năm 2025 18:16:15 +07: Installation started
+Thứ ba, 14 Tháng 1 năm 2025 18:16:15 +07: Original user is quochuy242
+Thứ ba, 14 Tháng 1 năm 2025 18:16:18 +07: Operation accepted by user.
+Thứ ba, 14 Tháng 1 năm 2025 18:16:19 +07: Operation cancelled by user.
+Thứ ba, 14 Tháng 1 năm 2025 18:16:24 +07: Operation accepted by user.
+Thứ ba, 14 Tháng 1 năm 2025 18:16:24 +07: Installation started for hypr section
+Thứ ba, 14 Tháng 1 năm 2025 18:16:24 +07: Attempting to run: Install Hyprland (Must)
+Thứ ba, 14 Tháng 1 năm 2025 18:16:25 +07: Operation cancelled by user.
+Thứ ba, 14 Tháng 1 năm 2025 18:16:25 +07: Install Hyprland (Must) was skipped by user choice.
+Thứ ba, 14 Tháng 1 năm 2025 18:16:25 +07: Attempting to run: Copy hyprland config (Must)
+Thứ ba, 14 Tháng 1 năm 2025 18:16:27 +07: Operation accepted by user.
+Thứ ba, 14 Tháng 1 năm 2025 18:16:27 +07: Copy hyprland config (Must) completed successfully.
+Thứ ba, 14 Tháng 1 năm 2025 18:16:27 +07: Attempting to run: Install XDG desktop portal for Hyprland
+Thứ ba, 14 Tháng 1 năm 2025 18:16:30 +07: Operation cancelled by user.
+Thứ ba, 14 Tháng 1 năm 2025 18:16:30 +07: Install XDG desktop portal for Hyprland was skipped by user choice.
+Thứ ba, 14 Tháng 1 năm 2025 18:16:30 +07: Attempting to run: Install KDE Polkit agent for authentication dialogs
+Thứ ba, 14 Tháng 1 năm 2025 18:16:33 +07: Operation cancelled by user.
+Thứ ba, 14 Tháng 1 năm 2025 18:16:33 +07: Install KDE Polkit agent for authentication dialogs was skipped by user choice.
+Thứ ba, 14 Tháng 1 năm 2025 18:16:33 +07: Attempting to run: Install Dunst notification daemon
+Thứ ba, 14 Tháng 1 năm 2025 18:16:35 +07: Operation accepted by user.
+Thứ ba, 14 Tháng 1 năm 2025 18:16:37 +07: Install Dunst notification daemon completed successfully.
+Thứ ba, 14 Tháng 1 năm 2025 18:16:37 +07: Attempting to run: Copy dunst config
+Thứ ba, 14 Tháng 1 năm 2025 18:16:39 +07: Script interrupted and exited
